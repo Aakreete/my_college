@@ -1,0 +1,36 @@
+.subjects {
+        background-color: red (90, 67, 65);
+        color: rgb(0, 0, 0);
+        border: 3px solid rgb(255, 0, 0);
+        margin: 16px;
+        padding: 18px;
+        width: 300;
+    }
+    .row {
+        background-color: red (90, 67, 65);
+        color: rgb(0, 0, 0);
+        border: 3px solid rgb(255, 0, 0);   
+        padding: 10px;
+        height:250px;
+       
+    }
+    .column {
+        float: left;
+        background-color: red (90, 67, 65);
+        color: rgb(0, 0, 0);
+        border: 3px solid rgb(255, 0, 0);
+        margin: 16px;
+        width: 21%;
+        padding:5px;
+        height:200px;
+    }
+h2{
+    color: purple;
+
+}
+body{
+    background-color: rgb(40, 133, 37) ;
+}
+p{
+    color: white;
+}
