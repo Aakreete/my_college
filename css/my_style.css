@@ -1,7 +1,7 @@
 .subjects {
         background-color: red (90, 67, 65);
         color: rgb(0, 0, 0);
-        border: 3px solid rgb(255, 0, 0);
+       /* border: 3px solid rgb(255, 0, 0);*/
         margin: 16px;
         padding: 18px;
         width: 300;
@@ -9,28 +9,72 @@
     .row {
         background-color: red (90, 67, 65);
         color: rgb(0, 0, 0);
-        border: 3px solid rgb(255, 0, 0);   
+       /* border: 3px solid rgb(255, 0, 0);*/   
         padding: 10px;
-        height:250px;
+        height:150px;
+        margin:5px;
        
     }
     .column {
         float: left;
         background-color: red (90, 67, 65);
         color: rgb(0, 0, 0);
-        border: 3px solid rgb(255, 0, 0);
+       /* border: 3px solid rgb(255, 0, 0);*/
         margin: 16px;
         width: 21%;
         padding:5px;
-        height:200px;
+        height:100px;
     }
 h2{
     color: purple;
 
 }
 body{
-    background-color: rgb(40, 133, 37) ;
+    background-color: rgb(0, 255, 255)  ;
 }
 p{
-    color: white;
+    color: black;
+}
+.navbar{
+    background-color: red (90, 67, 65);
+        color: rgb(0, 0, 0);
+       /* border: 3px solid rgb(255, 0, 0);*/   
+        padding: 10px;
+        height:35px;
+        margin:5px;
+}
+.footer{
+    background-color: red (90, 67, 65);
+        color: rgb(0, 0, 0);
+       /* border: 3px solid rgb(255, 0, 0);*/   
+        padding: 10px;
+        height:35px;
+        margin:5px;
+}
+.aboutme{
+    background-color: red (90, 67, 65);
+        color: rgb(0, 0, 0);
+        /* border: 3px solid rgb(255, 0, 0); */
+        padding: 10px;
+        height:300px;
+        margin:5px;
+}
+.myintroduction{
+    float: left;
+    background-color: red (90, 67, 65);
+        color: rgb(0, 0, 0);
+        /*border: 3px solid rgb(255, 0, 0); */  
+        padding: 10px;
+        height:263px;
+        margin:5px;
+        width:64%;
+}
+.mypicture{
+    float: left;    
+    background-color: red (90, 67, 65);
+        color: rgb(0, 0, 0);
+       /* border: 3px solid rgb(255, 0, 0); */
+        height:263px;
+        margin:5px;
+        width:30%;
 }
