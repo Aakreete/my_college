@@ -9,7 +9,7 @@
     .row {
         background-color: red (90, 67, 65);
         color: rgb(0, 0, 0);
-       /* border: 3px solid rgb(255, 0, 0);*/   
+        border: 3px solid rgb(255, 0, 0);  
         padding: 10px;
         height:150px;
         margin:5px;
@@ -38,7 +38,7 @@ p{
 .navbar{
     background-color: red (90, 67, 65);
         color: rgb(0, 0, 0);
-       /* border: 3px solid rgb(255, 0, 0);*/   
+        border: 3px solid rgb(255, 0, 0);
         padding: 10px;
         height:35px;
         margin:5px;
@@ -46,7 +46,7 @@ p{
 .footer{
     background-color: red (90, 67, 65);
         color: rgb(0, 0, 0);
-       /* border: 3px solid rgb(255, 0, 0);*/   
+        border: 3px solid rgb(255, 0, 0); 
         padding: 10px;
         height:35px;
         margin:5px;
@@ -77,4 +77,40 @@ p{
         height:263px;
         margin:5px;
         width:30%;
+}
+.picturebox{
+    float: left;    
+    background-color: red (90, 67, 65);
+        color: rgb(0, 0, 0);
+       border: 3px solid rgb(255, 0, 0); 
+        height:300px;
+        margin:5px;
+        width:48.5%;
+}
+.descriptionbox{
+    float: left;    
+    background-color: red (90, 67, 65);
+        color: rgb(0, 0, 0);
+       border: 3px solid rgb(255, 0, 0); 
+        height:300px;
+        margin:5px;
+        width:48.5%;
+}
+.smallpicturebox{
+    float: left;    
+    background-color: red (90, 67, 65);
+        color: rgb(0, 0, 0);
+       border: 3px solid rgb(255, 0, 0); 
+        height:130px;
+        margin:5px;
+        width:200;
+}
+.bigrow {
+    background-color: red (90, 67, 65);
+    color: rgb(0, 0, 0);
+    border: 3px solid rgb(255, 0, 0);  
+    padding: 10px;
+    height:310px;
+    margin:5px;
+   
 }
