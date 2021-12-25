@@ -1,0 +1,17 @@
+.bigrow {
+    background-color: red (90, 67, 65);
+    color: rgb(0, 0, 0);
+    border: 3px solid rgb(255, 0, 0);  
+    padding: 10px;
+    height:310px;
+    margin:5px; 
+}
+.sat{
+    float: left;    
+    background-color: red (90, 67, 65);
+        color: rgb(0, 0, 0);
+       border: 3px solid rgb(255, 0, 0); 
+        height:130px;
+        margin:5px;
+        width:200;
+}
