@@ -195,7 +195,109 @@ p{
         margin:25px;
         width:40.5%;
 }
-  
+
+/* For English Course*/
+.navbarenglish{
+    background:rgb(231, 179, 196);
+    color: rgb(0, 0, 0);
+    border:rgb(231, 179, 196);
+    height:50px;
+    text-align: center;
+    /*margin:5px;*/
+}
+.rowofenglish {
+    background:rgb(210, 219, 189);
+    color: rgb(0, 0, 0);
+    border: 3px solid rgb(255, 0, 0);
+    padding: 10px;
+    height:650px;
+   /* margin:5px;*/
+   }
+   .pictureboxofenglish{
+    float: left;    
+   /* background:rgb(210, 220, 240);*/
+        color: rgb(0, 0, 0);
+      /* border: 3px solid rgb(255, 0, 0); */
+        height:630px;
+        margin:5px;
+        width:48.5%;
+        padding-left:30px;
+}
+.descriptionboxofenglish{
+    float: left;    
+    background-color: red (90, 67, 65);
+        color: rgb(0, 0, 0);
+       border: 3px solid rgb(255, 0, 0); 
+        height:300px;
+        margin:5px;
+        width:40.5%;
+}
+/*For tutorial Course*/
+.navbartutorial{
+    background:rgb(231, 179, 196);
+        color: rgb(0, 0, 0);
+        border:rgb(231, 179, 196);
+        height:40px;
+        padding-bottom:20px;
+        padding-top:1px;
+       /* text-align: center;*/
+}
+.Tutorialrow{
+    background:rgb(248, 221, 148);
+    color: rgb(0, 0, 0);
+  /* border: 3px solid rgb(255, 0, 0);*/
+   /* padding: 10px;*/
+    height:600px;
+   /* margin:5px;*/
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
