@@ -170,7 +170,7 @@ p{
        /* text-align: center;*/
 }
 .Mathsrow{
-    background:rgb(210, 220, 240);
+    background:rgb(204, 219, 218);
     color: rgb(0, 0, 0);
   /* border: 3px solid rgb(255, 0, 0);*/
    /* padding: 10px;*/
@@ -190,10 +190,11 @@ p{
     float: left;    
     background-color: red (90, 67, 65);
         color: rgb(0, 0, 0);
-       border: 3px solid rgb(255, 0, 0); 
-        height:300px;
-        margin:25px;
-        width:40.5%;
+      /* border: 3px solid rgb(255, 0, 0); */
+        height:280px;
+        margin:45px;
+        width:460px;
+        padding-left:120px;;
 }
 
 /* For English Course*/
@@ -206,9 +207,9 @@ p{
     /*margin:5px;*/
 }
 .rowofenglish {
-    background:rgb(210, 219, 189);
+    background:rgb(204, 219, 218);
     color: rgb(0, 0, 0);
-    border: 3px solid rgb(255, 0, 0);
+    /*border: 3px solid rgb(255, 0, 0);*/
     padding: 10px;
     height:650px;
    /* margin:5px;*/
@@ -227,10 +228,11 @@ p{
     float: left;    
     background-color: red (90, 67, 65);
         color: rgb(0, 0, 0);
-       border: 3px solid rgb(255, 0, 0); 
-        height:300px;
+       /*border: 3px solid rgb(255, 0, 0); */
+        height:280px;
         margin:5px;
-        width:40.5%;
+        width:460px;
+        padding-left:80px;
 }
 /*For tutorial Course*/
 .navbartutorial{
@@ -243,7 +245,7 @@ p{
        /* text-align: center;*/
 }
 .Tutorialrow{
-    background:rgb(248, 221, 148);
+    background:rgb(204, 219, 218);
     color: rgb(0, 0, 0);
   /* border: 3px solid rgb(255, 0, 0);*/
    /* padding: 10px;*/
