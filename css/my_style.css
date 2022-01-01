@@ -258,17 +258,17 @@ p{
           border: 3px solid rgb(255, 0, 0); 
             height:500px;
             margin:45px;
-            width:680px;
+            width:480px;
 
    }
    .picturebox{
-    float: left;    
+    float:right;    
     background-color: red (90, 67, 65);
         color: rgb(0, 0, 0);
        border: 3px solid rgb(255, 0, 0); 
         height:280px;
-        margin:45px;
-        width:200px;
+        margin:5px;
+        width:400px;
         padding-left:5px;
 
    }
