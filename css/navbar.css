@@ -3,8 +3,9 @@
   overflow: hidden;
   background-color: #d0dcff;
  
-  padding: 20px; /* Large padding which will shrink on scroll (using JS) */
-  transition: 0.4s; /* Adds a transition effect when the padding is decreased */
+  padding-top: 20px; /* Large padding which will shrink on scroll (using JS) */
+  padding-bottom:20px;
+ /* transition: 0.4s;*/ /* Adds a transition effect when the padding is decreased */
   
   width: 100%;
   top: 0; /* At the top */
