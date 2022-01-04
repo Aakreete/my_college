@@ -2,14 +2,16 @@
 #navbar {
   background-color: #d0dcff;
   position: relative;
-  min-height: 50px;
+  
+  height: 70px;
  
-  padding-top: 20px; /* Large padding which will shrink on scroll (using JS) */
-  padding-bottom:20px;
+  padding-top: 10px; /* Large padding which will shrink on scroll (using JS) */
+  padding-bottom:10px;
  /* transition: 0.4s;*/ /* Adds a transition effect when the padding is decreased */
   
   width: 100%;
   top: 0; /* At the top */ 
+  
 }
 .navbar a:hover, .dropdown:hover .dropbtn {
   background-color: rgb(81, 255, 0);
