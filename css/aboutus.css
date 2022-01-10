@@ -59,4 +59,11 @@ html {
 .button:hover {
   background-color: #555;
 }
-
+.footerabout{
+  background-color:rgb(231, 179, 196);
+      color: rgb(0, 0, 0);
+      border:rgb(231, 179, 196); 
+      padding-bottom:10px;
+      padding-top:100px;
+      height:79px;
+}

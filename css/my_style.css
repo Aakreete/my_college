@@ -1,10 +1,25 @@
- 
+.row {
+    padding-left:55px;
+    color: rgb(0, 0, 0);
+   /* border: 3px solid rgb(255, 0, 0); */
+    height:350px;
+    margin:5px;
+}
+.mypicture3{
+    float: left;    
+    background-color: red (90, 67, 65);
+        color: rgb(0, 0, 0);
+      height:300px;
+        margin:5px;
+        padding-top: 50px;
+}
+
 h2{
     color: purple;
 
 }
 h1{
-    color:blueviolet;
+    color:black;
  
 }
 
@@ -202,108 +217,69 @@ h1{
    }
 
   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* just for practise*/
-.smallbox{
+   .mypicture3{
     float: left;    
     background-color: red (90, 67, 65);
         color: rgb(0, 0, 0);
-       border: 3px solid rgb(255, 0, 0); 
-        height:300px;
+      height:263px;
         margin:5px;
-        width:300;
+        width:25%;
+        padding-top: 50px;
+        z-index: 0;
 }
-.bigbox{
-    float: left;    
-    background-color: red (90, 67, 65);
-        color: rgb(0, 0, 0);
-       border: 3px solid rgb(255, 0, 0); 
-        height:300px;
-        margin:5px;
-        width:879;
-       /* padding:0px;*/
-}
-.smalbox{
-    float: left;    
-    background-color: red (90, 67, 65);
-        color: rgb(0, 0, 0);
-       border: 3px solid rgb(255, 0, 0); 
-        height:160px;
-        margin:40px;
-        padding:25px;
-        width:160;
-}
-.bigox{
-   /* float: center; */   
-    background-color: red (90, 67, 65);
-        color: rgb(0, 0, 0);
-       border: 3px solid rgb(255, 0, 0); 
-        height:200px;
-        margin:45px;
-        width:750;
-        /*padding:30px;*/
-}
-.biox{
-   /* right:180px; */ 
-   float: right;
-    background-color: red (90, 67, 65);
-        color: rgb(0, 0, 0);
-       border: 3px solid rgb(145, 255, 0); 
-        height:180px;
-        width:190px;
-        /*padding:5px;*/
-        margin:6px;
-    
-}
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
