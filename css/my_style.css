@@ -1,5 +1,6 @@
 .row {
     padding-left:55px;
+    padding-right: 55px;
     color: rgb(0, 0, 0);
    /* border: 3px solid rgb(255, 0, 0); */
     height:350px;
@@ -26,11 +27,11 @@ h1{
 
 .footer{
     background-color:rgb(231, 179, 196);
-        color: rgb(0, 0, 0);
-        border:rgb(231, 179, 196); 
-        padding-bottom:10px;
-        padding-top:10px;
-        height:49px;
+    color: rgb(0, 0, 0);
+    border:rgb(231, 179, 196); 
+    padding-bottom:10px;
+    padding-top:10px;
+    height:73px;
        
 }
 
@@ -227,8 +228,6 @@ h1{
         padding-top: 50px;
         z-index: 0;
 }
-
-  
 
 
 
