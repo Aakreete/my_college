@@ -1,15 +1,12 @@
-body {
-  font-family: Arial, Helvetica, sans-serif;
-  margin: 0;
-}
+
 
 html {
   box-sizing: border-box;
-}
+} 
 
-*, *:before, *:after {
+  *, *:before, *:after {
   box-sizing: inherit;
-}
+} 
 
 .column {
   float: left;
@@ -28,10 +25,13 @@ html {
   text-align: center;
   background-color: #474e5d;
   color: white;
+  
+  
 }
 
 .container {
   padding: 0 16px;
+  
 }
 
 .container::after, .row::after {
@@ -59,10 +59,11 @@ html {
 .button:hover {
   background-color: #555;
 }
-
-@media screen and (max-width: 650px) {
-  .column {
-    width: 100%;
-    display: block;
-  }
+.footerabout{
+  background-color:rgb(231, 179, 196);
+      color: rgb(0, 0, 0);
+      border:rgb(231, 179, 196); 
+      padding-bottom:10px;
+      padding-top:100px;
+      height:79px;
 }
